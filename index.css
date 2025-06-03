@@ -1,11 +1,17 @@
-body{
-color: rgb(0, 0, 0);
-background-image: url(apps.57302.68092588132505117.32378282-ea7e-40c4-a3a2-81703aa936d7.jpeg);
-}
-header{
-    background-color: bisque;
+body {
+background-image: url();
+color: black;
 
 }
+header{
+    text-align: center;
+    align-items: flex-end;
+    height: 6rem;
+}
 section{
-    color: antiquewhite;
+color: black;
+}
+.plants{
+color: black;
+background-image: url();
 }
